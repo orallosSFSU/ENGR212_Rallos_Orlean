@@ -1,0 +1,23 @@
+0 0 0 Lyrics/wc
+      0       0       0 Lyrics/Night
+  82  742 3761 Lyrics/all_my_life.txt
+  39  337 1794 Lyrics/anti-hero.txt
+0 0 0 Lyrics/barbie_error.log
+ 1  3 15 Lyrics/barbie_wc.txt
+  58  465 2337 Lyrics/barbie_world.txt
+  53  472 2638 Lyrics/calm_down.txt
+  61  415 2026 Lyrics/cruel_summer.txt
+  65  519 2477 Lyrics/fast_car.pdf
+  58  332 1606 Lyrics/flowers.pdf
+  53  353 1910 Lyrics/fukumean.pdf
+  45  367 1843 Lyrics/hey_driver.pdf
+ 34 184 929 Lyrics/i_remember_everything.txt
+  42  349 1543 Lyrics/need_a_favor.txt
+  88  742 3368 Lyrics/paint_the_town_red.txt
+  45  344 1708 Lyrics/religiously.txt
+  44  318 1648 Lyrics/rich_men_north_of_richmond
+  54  418 2037 Lyrics/snooze
+  43  437 2291 Lyrics/thinkin_bout_me
+  61  313 1523 Lyrics/used_to_be_young
+  49  387 1954 Lyrics/vampire
+0 0 0 Lyrics/wc

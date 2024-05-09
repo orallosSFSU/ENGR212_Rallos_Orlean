@@ -1,0 +1,7 @@
+total 20
+-rwxrw-r-- 1 student student  400 May  9 04:58 7a.sh
+-rwxrw-r-- 1 student student  406 May  9 05:04 7b.sh
+-rwxrw-r-- 1 student student  407 May  9 05:12 7c.sh
+drwxrwxr-x 3 student student 4096 May  9 05:27 Lyrics
+-rw-rw-r-- 1 student student    0 May  9 05:33 cat
+-rw-rw-r-- 1 student student  810 May  9 05:12 wc.txt
